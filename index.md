@@ -4,7 +4,17 @@ Senior Researcher at [Institut de Recherche pour le Développement](https://en.i
 
 Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice, France)
 
-[CV](https://www.dropbox.com/s/0anud35gma53n0r/CV%20Ampuero.pdf?dl=0) | [Publications](https://scholar.google.com/citations?user=RHXdl6EAAAAJ ) | [Twitter](https://twitter.com/DocTerremoto)
+[CV](https://www.dropbox.com/s/0anud35gma53n0r/CV%20Ampuero.pdf?dl=0) | [Publications](https://scholar.google.com/citations?user=RHXdl6EAAAAJ) | [Software](https://github.com/jpampuero) | [Twitter](https://twitter.com/DocTerremoto)
+
+---
+
+# Main current research topics
+
+- Earthquake physics, computational earthquake dynamics, fracture mechanics
+- Earthquake source imaging and source inversion
+- Distributed Acoustic Sensing in seismology
+- Earthquake prompt gravity signals
+- Induced seismicity
 
 ---
 
