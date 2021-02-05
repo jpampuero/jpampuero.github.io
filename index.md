@@ -6,6 +6,8 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 [CV](https://www.dropbox.com/s/0anud35gma53n0r/CV%20Ampuero.pdf?dl=0) | [Publications](https://scholar.google.com/citations?user=RHXdl6EAAAAJ ) | [Twitter](https://twitter.com/DocTerremoto)
 
+---
+
 ## Team
 
 ### Postdocs
@@ -29,9 +31,9 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 ## Recent publications
 
-- *I. Lior*, A. Sladen, D. Rivet, **J. P. Ampuero**, Y. M. Hello, P. Lamare, C. Jestin, S. Tsagkli, C. Markou (2020), On the detection capabilities of underwater DAS, J. Geophys. Res., doi:10.1029/2020JB020925 [PDF](https://doi.org/10.1002/essoar.10504330.1)
+- *I. Lior*, A. Sladen, D. Rivet, **J. P. Ampuero**, Y. M. Hello, P. Lamare, C. Jestin, S. Tsagkli, C. Markou (2020), On the detection capabilities of underwater DAS, J. Geophys. Res., [doi:10.1029/2020JB020925](https://doi.org/10.1029/2020JB020925) - [PDF](https://doi.org/10.1002/essoar.10504330.1)
 - M.-A. Meier, **J. P. Ampuero**, E. Cochran and M. Page (2020), Apparent earthquake rupture predictability, Geophys. J. Int., ggaa610, [doi:10.1093/gji/ggaa610](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggaa610/6054996?guestAccessKey=65dc3036-395d-4384-a735-ea9e47ce40ca)
-- *C. Liang*, **J. P. Ampuero** and D. Pino-Muñoz (2020), Deep ductile shear zone facilitates near-orthogonal strike-slip faulting in a thin brittle lithosphere, Geophys. Res. Lett., 82 (2), e2020GL090744, [doi:10.1029/2020GL090744](https://doi.org/10.1029/2020GL090744) [PDF](https://eartharxiv.org/fp8xq/)
+- *C. Liang*, **J. P. Ampuero** and D. Pino-Muñoz (2020), Deep ductile shear zone facilitates near-orthogonal strike-slip faulting in a thin brittle lithosphere, Geophys. Res. Lett., 82 (2), e2020GL090744, [doi:10.1029/2020GL090744](https://doi.org/10.1029/2020GL090744) | [PDF](https://eartharxiv.org/fp8xq/)
 - *B. Idini* and **J. P. Ampuero** (2020), Fault zone damage promotes pulse-like rupture and back-propagating fronts via quasi-static effects, Geophys. Res. Lett., 47 (23), e2020GL090736, [doi:10.1029/2020GL090736](https://doi.org/10.1029/2020GL090736) [PDF](https://eartharxiv.org/v8xr2/)
 - *M. van den Ende*, M. M. Scuderi, F. Cappa and **J. P. Ampuero** (2020), Extracting microphysical fault friction parameters from laboratory and field injection experiments, Solid Earth, 11, 2245–2256, [doi:10.5194/se-11-2245-2020](https://doi.org/10.5194/se-11-2245-2020) [PDF](https://se.copernicus.org/articles/11/2245/2020/se-11-2245-2020.pdf)
 - *H. Weng* and **J. P. Ampuero** (2020), Continuum of earthquake rupture speeds enabled by oblique slip, Nature Geo., 13, 817–821, [doi:10.1038/s41561-020-00654-4](https://www.nature.com/articles/s41561-020-00654-4) [PDF](https://eartharxiv.org/tw4ju/)
