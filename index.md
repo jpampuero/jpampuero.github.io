@@ -8,7 +8,7 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 ---
 
-# Main current research topics
+# Main research topics
 
 - Earthquake physics, computational earthquake dynamics, fracture mechanics
 - Earthquake source imaging and source inversion
@@ -20,7 +20,7 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 # Team
 
-## Postdocs
+## Postdoctoral researchers
 
 - [Martijn van den Ende](https://martijnvandenende.nl/)
 - [Huihui Weng](https://huihuiweng.wixsite.com/mysite)
@@ -28,7 +28,7 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 - Chao Liang (co-supervised with [Daniel Pino Muñoz](https://www.cemef.minesparis.psl.eu/en/presentation/team-csm/))
 - [Itzhak Lior](https://scholar.google.co.il/citations?user=lNQ-YMUAAAAJ&hl=en) (co-supervised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home))
 
-## Grad students
+## Graduate students
 
 - Daniel Mata     (co-advised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home))
 - Pablo Espinoza Lara	(co-advised with [Quentin Blétery](https://sites.google.com/site/quentinbletery/))
