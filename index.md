@@ -1,10 +1,10 @@
+[CV](https://www.dropbox.com/s/0anud35gma53n0r/CV%20Ampuero.pdf?dl=0) | [Publications](https://scholar.google.com/citations?user=RHXdl6EAAAAJ) | [Software](https://github.com/jpampuero) | [Twitter](https://twitter.com/DocTerremoto)
+
 Seismologist at [Geoazur Laboratory - Earthquakes Team](https://geoazur.oca.eu/fr/rech-seismes-geoazur )
 
 Senior Researcher at [Institut de Recherche pour le Développement](https://en.ird.fr/) (French National Research Institute for Sustainable Development)
 
 Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice, France)
-
-[CV](https://www.dropbox.com/s/0anud35gma53n0r/CV%20Ampuero.pdf?dl=0) | [Publications](https://scholar.google.com/citations?user=RHXdl6EAAAAJ) | [Software](https://github.com/jpampuero) | [Twitter](https://twitter.com/DocTerremoto)
 
 ---
 
