@@ -24,11 +24,12 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 ## Postdoctoral researchers
 
-- [Martijn van den Ende](https://martijnvandenende.nl/)
 - [Huihui Weng](https://huihuiweng.wixsite.com/mysite)
-- [Elif Oral](https://elifo.github.io/)
 - Chao Liang (co-supervised with [Daniel Pino Muñoz](https://www.cemef.minesparis.psl.eu/en/presentation/team-csm/))
 - [Itzhak Lior](https://scholar.google.co.il/citations?user=lNQ-YMUAAAAJ&hl=en) (co-supervised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home))
+
+- [Martijn van den Ende](https://martijnvandenende.nl/). Now at [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) (Interdisciplinary Institute for Artificial Intelligence). 
+- [Elif Oral](https://elifo.github.io/). Now at Caltech, Department of Mechanical and Civil Engineering.
 
 ## Graduate students
 
@@ -45,6 +46,7 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 # Recent publications
 
+- *M. van den Ende* and **J. P. Ampuero** (2021), Evaluating seismic beamforming capabilities of Distributed Acoustic Sensing arrays, Solid Earth, 12, 915–934, [doi:10.5194/se-12-915-2021](https://doi.org/10.5194/se-12-915-2021)
 - *I. Lior*, A. Sladen, D. Rivet, **J. P. Ampuero**, Y. M. Hello, P. Lamare, C. Jestin, S. Tsagkli, C. Markou (2020), On the detection capabilities of underwater DAS, J. Geophys. Res., 126 (3), e2020JB020925, [doi:10.1029/2020JB020925](https://doi.org/10.1029/2020JB020925) - [PDF](https://doi.org/10.1002/essoar.10504330.1)
 - M.-A. Meier, **J. P. Ampuero**, E. Cochran and M. Page (2020), Apparent earthquake rupture predictability, Geophys. J. Int., 225 (1), 657–663, [doi:10.1093/gji/ggaa610](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggaa610/6054996?guestAccessKey=65dc3036-395d-4384-a735-ea9e47ce40ca)
 - *C. Liang*, **J. P. Ampuero** and D. Pino-Muñoz (2020), Deep ductile shear zone facilitates near-orthogonal strike-slip faulting in a thin brittle lithosphere, Geophys. Res. Lett., 82 (2), e2020GL090744, [doi:10.1029/2020GL090744](https://doi.org/10.1029/2020GL090744) - [PDF](https://eartharxiv.org/fp8xq/)
