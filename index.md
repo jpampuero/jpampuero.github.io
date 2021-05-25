@@ -46,6 +46,7 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 # Recent publications
 
+- *S. Larochelle*, N. Lapusta, **J. P. Ampuero** and F. Cappa (2021), Constraining fault friction and stability with fluid-injection field experiments, Geophys. Res. Lett., 48 (10), e2020GL091188, [doi:10.1029/2020GL091188](https://doi.org/10.1029/2020GL091188) - [PDF](https://doi.org/10.1002/essoar.10504514.2)
 - *M. van den Ende* and **J. P. Ampuero** (2021), Evaluating seismic beamforming capabilities of Distributed Acoustic Sensing arrays, Solid Earth, 12, 915–934, [doi:10.5194/se-12-915-2021](https://doi.org/10.5194/se-12-915-2021)
 - *I. Lior*, A. Sladen, D. Rivet, **J. P. Ampuero**, Y. M. Hello, P. Lamare, C. Jestin, S. Tsagkli, C. Markou (2020), On the detection capabilities of underwater DAS, J. Geophys. Res., 126 (3), e2020JB020925, [doi:10.1029/2020JB020925](https://doi.org/10.1029/2020JB020925) - [PDF](https://doi.org/10.1002/essoar.10504330.1)
 - M.-A. Meier, **J. P. Ampuero**, E. Cochran and M. Page (2020), Apparent earthquake rupture predictability, Geophys. J. Int., 225 (1), 657–663, [doi:10.1093/gji/ggaa610](https://academic.oup.com/gji/advance-article/doi/10.1093/gji/ggaa610/6054996?guestAccessKey=65dc3036-395d-4384-a735-ea9e47ce40ca)
