@@ -44,7 +44,11 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 ---
 
-# Recent publications
+# Publications
+
+## Selected recent publications
+
+Complete list, including current pre-prints, in [CV](https://www.dropbox.com/s/0anud35gma53n0r/CV%20Ampuero.pdf?dl=0) and [Google scholar](https://scholar.google.com/citations?user=RHXdl6EAAAAJ).
 
 - *S. Larochelle*, N. Lapusta, **J. P. Ampuero** and F. Cappa (2021), Constraining fault friction and stability with fluid-injection field experiments, Geophys. Res. Lett., 48 (10), e2020GL091188, [doi:10.1029/2020GL091188](https://doi.org/10.1029/2020GL091188) - [PDF](https://doi.org/10.1002/essoar.10504514.2)
 - *M. van den Ende* and **J. P. Ampuero** (2021), Evaluating seismic beamforming capabilities of Distributed Acoustic Sensing arrays, Solid Earth, 12, 915–934, [doi:10.5194/se-12-915-2021](https://doi.org/10.5194/se-12-915-2021)
@@ -59,3 +63,12 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 - *E. Oral*, *H. Weng* and **J. P. Ampuero** (2019), Does a damaged-fault zone mitigate the near-field impact of supershear earthquakes? - Application to the 2018 Mw 7.5 Palu earthquake, Geophys. Res. Lett., 47 (1), e2019GL085649, [doi:10.1029/2019GL085649](https://doi.org/10.1029/2019GL085649) - [PDF](https://eartharxiv.org/5nugq/)
 - A. Sladen, D. Rivet, **J. P. Ampuero**, L. De Barros, Y. Hello, G. Calbris, P. Lamare (2019), Distributed sensing of earthquakes and ocean-solid Earth interactions on seafloor telecom cables, Nat. Comms., 10, 5777, [doi:10.1038/s41467-019-13793-z](https://doi.org/10.1038/s41467-019-13793-z) - [PDF](https://eartharxiv.org/ekrfy/)
 - *H. Weng* and **J. P. Ampuero** (2019), The dynamics of elongated earthquake ruptures, J. Geophys. Res., 124 (8), 8584-8610, [doi: 10.1029/2019JB017684](https://doi.org/10.1029/2019JB017684) - [PDF](https://eartharxiv.org/9yq8n/)
+
+
+## Current pre-prints
+
+- *M. Prada*, P. Galvez, **J. P. Ampuero**, V. Sallares, C. Sanchez-Linares, J. Macias, D. Peter, The influence of depth-varying elastic properties of the overriding plate on megathrust earthquake rupture dynamics and tsunamigenesis, ESSOAr preprint, [doi:10.1002/essoar.10507023.1](https://doi.org/10.1002/essoar.10507023.1)
+- *M. van den Ende*, *I. Lior*, **J. P. Ampuero**, A. Sladen, A. Ferrari, C. Richard, A Self-Supervised Deep Learning Approach for Blind Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing data, EarthArXiv preprint, [doi:10.31223/X55K63](https://doi.org/10.31223/X55K63)
+- *C. Liang* and **J. P. Ampuero**, Comment on "Coincident locations of rupture nucleation during the 2019 Le Teil earthquake, France and maximum stress change from local cement quarrying" by De Novellis et al., ESSOAr preprint, [doi:10.1002/essoar.10504400.1](https://doi.org/10.1002/essoar.10504400.1)
+- *Y. Luo* and **J. P. Ampuero**, Tremor migration patterns and the collective behavior of deep asperities mediated by creep, EarthArXiv preprint, [doi:10.17605/osf.io/mbcav](https://eartharxiv.org/mbcav/)
+
