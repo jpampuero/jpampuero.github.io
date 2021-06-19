@@ -46,9 +46,9 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 # Publications
 
-## Selected recent publications
-
 Complete list, including current pre-prints, in [CV](https://www.dropbox.com/s/0anud35gma53n0r/CV%20Ampuero.pdf?dl=0) and [Google scholar](https://scholar.google.com/citations?user=RHXdl6EAAAAJ).
+
+## Selected recent publications
 
 - *S. Larochelle*, N. Lapusta, **J. P. Ampuero** and F. Cappa (2021), Constraining fault friction and stability with fluid-injection field experiments, Geophys. Res. Lett., 48 (10), e2020GL091188, [doi:10.1029/2020GL091188](https://doi.org/10.1029/2020GL091188) - [PDF](https://doi.org/10.1002/essoar.10504514.2)
 - *I. Lior*, A. Sladen, D. Mercerat, **J.-P. Ampuero**, D. Rivet and S. Sambolian (2021), Strain to ground motion conversion of DAS data for earthquake magnitude and stress drop determination, Solid Earth, 12 (6), 1421–1442, [doi:10.5194/se-12-1421-2021](https://doi.org/10.5194/se-12-1421-2021)
@@ -68,6 +68,7 @@ Complete list, including current pre-prints, in [CV](https://www.dropbox.com/s/0
 
 ## Current pre-prints
 
+- T. Candela, M. Pluymaekers, **J. P. Ampuero**, J.-D. van Wees, L. Buijze, B. Wassing, S. Osinga, N. Grobbe, A. Muntendam-Bos (2021), Controls on the spatio-temporal patterns of induced seismicity in Groningen constrained by physics-based modeling with Ensemble-Smoother data assimilation, EarthArXiv preprint, [doi:10.31223/X5X02J](https://doi.org/10.31223/X5X02J)
 - *M. Prada*, P. Galvez, **J. P. Ampuero**, V. Sallares, C. Sanchez-Linares, J. Macias, D. Peter, The influence of depth-varying elastic properties of the overriding plate on megathrust earthquake rupture dynamics and tsunamigenesis, ESSOAr preprint, [doi:10.1002/essoar.10507023.1](https://doi.org/10.1002/essoar.10507023.1)
 - *M. van den Ende*, *I. Lior*, **J. P. Ampuero**, A. Sladen, A. Ferrari, C. Richard, A Self-Supervised Deep Learning Approach for Blind Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing data, EarthArXiv preprint, [doi:10.31223/X55K63](https://doi.org/10.31223/X55K63)
 - *C. Liang* and **J. P. Ampuero**, Comment on "Coincident locations of rupture nucleation during the 2019 Le Teil earthquake, France and maximum stress change from local cement quarrying" by De Novellis et al., ESSOAr preprint, [doi:10.1002/essoar.10504400.1](https://doi.org/10.1002/essoar.10504400.1)
