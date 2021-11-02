@@ -25,9 +25,10 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 ## Postdoctoral researchers
 
 - [Huihui Weng](https://huihuiweng.wixsite.com/mysite)
-- Chao Liang (co-supervised with [Daniel Pino Muñoz](https://www.cemef.minesparis.psl.eu/en/presentation/team-csm/))
 - [Itzhak Lior](https://scholar.google.co.il/citations?user=lNQ-YMUAAAAJ&hl=en) (co-supervised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home))
+- Andrea Licciardi (co-supervised with [Quentin Blétery](https://sites.google.com/site/quentinbletery/))
 
+- Chao Liang (co-supervised with [Daniel Pino Muñoz](https://www.cemef.minesparis.psl.eu/en/presentation/team-csm/)). Now at Sichuan University, China.
 - [Martijn van den Ende](https://martijnvandenende.nl/). Now at [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) (Interdisciplinary Institute for Artificial Intelligence). 
 - [Elif Oral](https://elifo.github.io/). Now at Caltech, Department of Mechanical and Civil Engineering.
 
@@ -68,6 +69,10 @@ Complete list, including current pre-prints, in [CV](https://www.dropbox.com/s/0
 
 ## Current pre-prints
 
+- A. Inbal, **J. P. Ampuero**, R. W. Clayton, Earthquake detectability and depth resolution with dense arrays in Long Beach, California, ESSOAr preprint, [doi:10.1002/essoar.10508262.1](https://doi.org/10.1002/essoar.10508262.1)
+- *E. Oral*, P. Ayoubi, **J. P. Ampuero**, D. Asimaki, L. F. Bonilla, Kathmandu Basin as a local modulator of seismic waves: 2D modelling of nonlinear site response under obliquely incident waves, EarthArXiv preprint, [doi:10.31223/X5333H](https://doi.org/10.31223/X5333H)
+- *I. Lior*, D. E. Mercerat, D. Rivet, A. Sladen, **J. P. Ampuero**, Imaging an Underwater Basin and its Resonance Modes using Optical Fiber Distributed Acoustic Sensing, EarthArXiv preprint, [doi:10.31223/X5XK8P](https://doi.org/10.31223/X5XK8P)
+- *A. Beall*, *M. van den Ende*, **J. P. Ampuero**, A. Fagereng, Viscous fault creep controls the stress-dependence of modelled earthquake statistics, EarthArXiv preprint, [doi:10.31223/X55G8T](https://doi.org/10.31223/X55G8T)
 - T. Candela, M. Pluymaekers, **J. P. Ampuero**, J.-D. van Wees, L. Buijze, B. Wassing, S. Osinga, N. Grobbe, A. Muntendam-Bos (2021), Controls on the spatio-temporal patterns of induced seismicity in Groningen constrained by physics-based modeling with Ensemble-Smoother data assimilation, EarthArXiv preprint, [doi:10.31223/X5X02J](https://doi.org/10.31223/X5X02J)
 - *M. Prada*, P. Galvez, **J. P. Ampuero**, V. Sallares, C. Sanchez-Linares, J. Macias, D. Peter, The influence of depth-varying elastic properties of the overriding plate on megathrust earthquake rupture dynamics and tsunamigenesis, ESSOAr preprint, [doi:10.1002/essoar.10507023.1](https://doi.org/10.1002/essoar.10507023.1)
 - *M. van den Ende*, *I. Lior*, **J. P. Ampuero**, A. Sladen, A. Ferrari, C. Richard, A Self-Supervised Deep Learning Approach for Blind Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing data, EarthArXiv preprint, [doi:10.31223/X55K63](https://doi.org/10.31223/X55K63)
