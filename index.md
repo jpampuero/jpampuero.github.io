@@ -25,12 +25,13 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 ## Postdoctoral researchers
 
 - [Huihui Weng](https://huihuiweng.wixsite.com/mysite)
-- [Itzhak Lior](https://scholar.google.co.il/citations?user=lNQ-YMUAAAAJ&hl=en) (co-supervised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home))
 - Andrea Licciardi (co-supervised with [Quentin Blétery](https://sites.google.com/site/quentinbletery/))
 
-- Chao Liang (co-supervised with [Daniel Pino Muñoz](https://www.cemef.minesparis.psl.eu/en/presentation/team-csm/)). Now at Sichuan University, China.
-- [Martijn van den Ende](https://martijnvandenende.nl/). Now at [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) (Interdisciplinary Institute for Artificial Intelligence). 
-- [Elif Oral](https://elifo.github.io/). Now at Caltech, Department of Mechanical and Civil Engineering.
+Former Geoazur postdocs:
+- [Itzhak Lior](https://scholar.google.co.il/citations?user=lNQ-YMUAAAAJ&hl=en) (co-supervised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home)). Now faculty at [The Hebrew University of Jerusalem](https://en.earth.huji.ac.il/people/itzhak-lior).
+- Chao Liang (co-supervised with [Daniel Pino Muñoz](https://www.cemef.minesparis.psl.eu/en/presentation/team-csm/)). Now faculty at Sichuan University, China.
+- [Martijn van den Ende](https://martijnvandenende.nl/). Now postdoc at [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) (Interdisciplinary Institute for Artificial Intelligence). 
+- [Elif Oral](https://elifo.github.io/). Now postdoc at Caltech, Department of Mechanical and Civil Engineering.
 
 ## Graduate students
 
@@ -51,6 +52,9 @@ Complete list, including current pre-prints, in [CV](https://www.dropbox.com/s/0
 
 ## Selected recent publications
 
+- T. Candela, M. Pluymaekers, **J. P. Ampuero**, J.-D. van Wees, L. Buijze, B. Wassing, S. Osinga, N. Grobbe, A. Muntendam-Bos (2021), Controls on the spatio-temporal patterns of induced seismicity in Groningen constrained by physics-based modeling with Ensemble-Smoother data assimilation, Geophys. J. Int., ggab497, [doi:10.1093/gji/ggab497](https://doi.org/10.1093/gji/ggab497) - [PDF](https://doi.org/10.31223/X5X02J)
+- *M. van den Ende*, *I. Lior*, **J. P. Ampuero**, A. Sladen, A. Ferrari, C. Richard (2021), A Self-Supervised Deep Learning Approach for Blind Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing data, IEEE Trans. Neural Networks and Learning Systems, [doi:10.1109/TNNLS.2021.3132832](https://doi.org/10.1109/TNNLS.2021.3132832) - [PDF](https://doi.org/10.31223/X55K63)
+- *M. Prada*, P. Galvez, **J. P. Ampuero**, V. Sallarès, C. Sánchez-Linares, J. Macías, D. Peter (2021), The influence of depth-varying elastic properties of the overriding plate on megathrust earthquake rupture dynamics and tsunamigenesis, J. Geophys. Res., 126 (11), e2021JB022328, [doi:10.1029/2021JB022328](https://doi.org/10.1029/2021JB022328) - [PDF](https://agupubs.onlinelibrary.wiley.com/doi/epdf/10.1029/2021JB022328)
 - *S. Larochelle*, N. Lapusta, **J. P. Ampuero** and F. Cappa (2021), Constraining fault friction and stability with fluid-injection field experiments, Geophys. Res. Lett., 48 (10), e2020GL091188, [doi:10.1029/2020GL091188](https://doi.org/10.1029/2020GL091188) - [PDF](https://doi.org/10.1002/essoar.10504514.2)
 - *I. Lior*, A. Sladen, D. Mercerat, **J.-P. Ampuero**, D. Rivet and S. Sambolian (2021), Strain to ground motion conversion of DAS data for earthquake magnitude and stress drop determination, Solid Earth, 12 (6), 1421–1442, [doi:10.5194/se-12-1421-2021](https://doi.org/10.5194/se-12-1421-2021)
 - *M. van den Ende* and **J. P. Ampuero** (2021), Evaluating seismic beamforming capabilities of Distributed Acoustic Sensing arrays, Solid Earth, 12 (4), 915–934, [doi:10.5194/se-12-915-2021](https://doi.org/10.5194/se-12-915-2021)
@@ -69,13 +73,13 @@ Complete list, including current pre-prints, in [CV](https://www.dropbox.com/s/0
 
 ## Current pre-prints
 
+- *P. Danre*, L. De Barros, F. Cappa, **J. P. Ampuero**, Fluid-induced anthropogenic and natural earthquake swarms driven by aseismic slip, ESSOAr preprint, [doi:10.1002/essoar.10509508.2](https://www.essoar.org/doi/10.1002/essoar.10509508.2)
+- *M. Chmiel*, M. Godano, M. Piantini, P. Brigode, F. Gimbert, M. Bakker, F. Courboulex, **J. P. Ampuero**, D. Rivet, A. Sladen, D. Ambrois, M. Chapuis, Brief communication: Seismological analysis of flood dynamics and hydrologically-triggered earthquake swarms associated with storm Alex, Nat. Hazards Earth Syst. Sci. Discuss. preprint, [doi:10.5194/nhess-2021-339](https://doi.org/10.5194/nhess-2021-339)
+- J. Jiang, B. A. Erickson, V. R. Lambert, **J. P. Ampuero** et al., Community-driven code comparisons for three-dimensional dynamic modeling of Sequences of Earthquakes and Aseismic Slip (SEAS), ESSOAr preprint, [doi:10.1002/essoar.10508582.1](https://www.essoar.org/doi/10.1002/essoar.10508582.1)
 - A. Inbal, **J. P. Ampuero**, R. W. Clayton, Earthquake detectability and depth resolution with dense arrays in Long Beach, California, ESSOAr preprint, [doi:10.1002/essoar.10508262.1](https://doi.org/10.1002/essoar.10508262.1)
 - *E. Oral*, P. Ayoubi, **J. P. Ampuero**, D. Asimaki, L. F. Bonilla, Kathmandu Basin as a local modulator of seismic waves: 2D modelling of nonlinear site response under obliquely incident waves, EarthArXiv preprint, [doi:10.31223/X5333H](https://doi.org/10.31223/X5333H)
 - *I. Lior*, D. E. Mercerat, D. Rivet, A. Sladen, **J. P. Ampuero**, Imaging an Underwater Basin and its Resonance Modes using Optical Fiber Distributed Acoustic Sensing, EarthArXiv preprint, [doi:10.31223/X5XK8P](https://doi.org/10.31223/X5XK8P)
 - *A. Beall*, *M. van den Ende*, **J. P. Ampuero**, A. Fagereng, Viscous fault creep controls the stress-dependence of modelled earthquake statistics, EarthArXiv preprint, [doi:10.31223/X55G8T](https://doi.org/10.31223/X55G8T)
-- T. Candela, M. Pluymaekers, **J. P. Ampuero**, J.-D. van Wees, L. Buijze, B. Wassing, S. Osinga, N. Grobbe, A. Muntendam-Bos (2021), Controls on the spatio-temporal patterns of induced seismicity in Groningen constrained by physics-based modeling with Ensemble-Smoother data assimilation, EarthArXiv preprint, [doi:10.31223/X5X02J](https://doi.org/10.31223/X5X02J)
-- *M. Prada*, P. Galvez, **J. P. Ampuero**, V. Sallares, C. Sanchez-Linares, J. Macias, D. Peter, The influence of depth-varying elastic properties of the overriding plate on megathrust earthquake rupture dynamics and tsunamigenesis, ESSOAr preprint, [doi:10.1002/essoar.10507023.1](https://doi.org/10.1002/essoar.10507023.1)
-- *M. van den Ende*, *I. Lior*, **J. P. Ampuero**, A. Sladen, A. Ferrari, C. Richard, A Self-Supervised Deep Learning Approach for Blind Denoising and Waveform Coherence Enhancement in Distributed Acoustic Sensing data, EarthArXiv preprint, [doi:10.31223/X55K63](https://doi.org/10.31223/X55K63)
 - *C. Liang* and **J. P. Ampuero**, Comment on "Coincident locations of rupture nucleation during the 2019 Le Teil earthquake, France and maximum stress change from local cement quarrying" by De Novellis et al., ESSOAr preprint, [doi:10.1002/essoar.10504400.1](https://doi.org/10.1002/essoar.10504400.1)
 - *Y. Luo* and **J. P. Ampuero**, Tremor migration patterns and the collective behavior of deep asperities mediated by creep, EarthArXiv preprint, [doi:10.17605/osf.io/mbcav](https://eartharxiv.org/mbcav/)
 
