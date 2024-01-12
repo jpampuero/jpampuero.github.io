@@ -30,14 +30,7 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 - Yuqing Xie
 
 
-Former Geoazur postdocs:
-- Alister Trabattoni
-- [Huihui Weng](https://huihuiweng.wixsite.com/mysite)
-- Andrea Licciardi (co-supervised with [Quentin Blétery](https://sites.google.com/site/quentinbletery/))
-- [Itzhak Lior](https://scholar.google.co.il/citations?user=lNQ-YMUAAAAJ&hl=en) (co-supervised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home)). Now faculty at [The Hebrew University of Jerusalem](https://en.earth.huji.ac.il/people/itzhak-lior).
-- Chao Liang (co-supervised with [Daniel Pino Muñoz](https://www.cemef.minesparis.psl.eu/en/presentation/team-csm/)). Now faculty at Sichuan University, China.
-- [Martijn van den Ende](https://martijnvandenende.nl/). Now postdoc at [3IA Côte d'Azur](https://3ia.univ-cotedazur.eu/) (Interdisciplinary Institute for Artificial Intelligence). 
-- [Elif Oral](https://elifo.github.io/). Now postdoc at Caltech, Department of Mechanical and Civil Engineering.
+
 
 ## Graduate students
 
@@ -49,11 +42,20 @@ Former Geoazur postdocs:
 - Gabriela Arias		(co-advised with [Quentin Blétery](https://sites.google.com/site/quentinbletery/))
 - Carlos Becerril		(co-advised with [Anthony Sladen](https://asladen.github.io/) and [Miguel González Herráez](https://www.uah.es/es/estudios/profesor/Miguel-Gonzalez-Herraez/))
 
-Former students graduated since 2018:
-- Gauthier Guérin 	(co-advised with [Diane Rivet](https://sites.google.com/view/dianerivet/home))
-- Daniel Mata     (co-advised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home))
-- [Benjamin Idini](http://web.gps.caltech.edu/~bidiniza/)		(Caltech)
-- [Stacy Larochelle](http://www.seismolab.caltech.edu/larochelle_s.html) 	(Caltech, co-advised with [Nadia Lapusta](https://www.lapusta.caltech.edu/))
+## Former Geoazur postdocs:
+- Alister Trabattoni. Now postdoc at Geoazur in [ERC project ABYSS](https://sites.google.com/view/dianerivet/erc-abyss).
+- [Huihui Weng](https://huihuiweng.wixsite.com/mysite). Now faculty at Nanjing University, China. 
+- Andrea Licciardi (co-supervised with [Quentin Blétery](https://sites.google.com/site/quentinbletery/))
+- [Itzhak Lior](https://scholar.google.co.il/citations?user=lNQ-YMUAAAAJ&hl=en) (co-supervised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home)). Now faculty at [The Hebrew University of Jerusalem](https://en.earth.huji.ac.il/people/itzhak-lior).
+- Chao Liang (co-supervised with [Daniel Pino Muñoz](https://www.cemef.minesparis.psl.eu/en/presentation/team-csm/)). Now faculty at Sichuan University, China.
+- [Martijn van den Ende](https://martijnvandenende.nl/). Now postdoc at Geoazur in [ERC project ABYSS](https://sites.google.com/view/dianerivet/erc-abyss).
+- [Elif Oral](https://elifo.github.io/). Now postdoc at Caltech, Department of Mechanical and Civil Engineering.
+
+## Former students graduated since 2018:
+- Gauthier Guérin (co-advised with [Diane Rivet](https://sites.google.com/view/dianerivet/home)). Now postdoc at Geoazur.
+- Daniel Mata     (co-advised with [Anthony Sladen](https://asladen.github.io/) and [Diane Rivet](https://sites.google.com/view/dianerivet/home)). Now CEO of smart-city DAS startup [SequoIA Analytics](http://www.sequoia-analytics.tech/).
+- [Benjamin Idini](http://web.gps.caltech.edu/~bidiniza/)		(Caltech). Now UC President's Postdoctoral Fellow at UC Santa Cruz.
+- [Stacy Larochelle](http://www.seismolab.caltech.edu/larochelle_s.html) 	(Caltech, co-advised with [Nadia Lapusta](https://www.lapusta.caltech.edu/)). Now postdoc at LDEO Columbia University.
 
 ---
 
