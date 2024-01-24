@@ -24,17 +24,16 @@ Excellence Chair at [Université Côte d'Azur](https://univ-cotedazur.fr/) (Nice
 
 ## Postdoctoral researchers
 
+- Federica Paglialunga (co- supervised with François Passelègue)
 - Eyup Sopaci
 - Pierre Romanet (co- supervised with Frédéric Cappa and Marco Scuderi)
 - Jan Premus
 - Yuqing Xie
 
-
-
-
 ## Graduate students
 
 - Hsiao-Fan Lin  (co-advised with Thibault Candela, TNO)
+- Vanessa Carrillo (co-advised with Anthony Sladen, Diego Mercerat, and Amaury Vallage, CEA)
 - Feyza Arzu		(co-advised with François Passelègue and Cédric Twardzik)
 - Hugo Lestrelin		(co-advised with Diego Mercerat and Françoise Courboulex)
 - Pablo Espinoza Lara	(co-advised with [Quentin Blétery](https://sites.google.com/site/quentinbletery/))
