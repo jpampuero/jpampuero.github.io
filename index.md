@@ -2,7 +2,9 @@
 
 ---
 
-Seismologist at [Geoazur Laboratory - Earthquakes Team](https://geoazur.oca.eu/fr/rech-seismes-geoazur )
+Seismologist, geophysicist 
+
+Head of the [Earthquake Cycle Team](https://geoazur.oca.eu/fr/rech-seismes-geoazur) at [Geoazur Laboratory](https://geoazur.oca.eu/)
 
 Senior Researcher at [Institut de Recherche pour le Développement](https://en.ird.fr/) (French National Research Institute for Sustainable Development)
 
@@ -94,6 +96,7 @@ Complete list, including current pre-prints, in [CV](https://www.dropbox.com/s/0
 
 ## Current pre-prints
 
+- *M. van den Ende*, **J. P. Ampuero**, F. Courboulex, B. Delouis, M. Godano, C. Larroque, A. Sladen, Distributed Acoustic Sensing for aftershock monitoring: the case of the 2019 Mw4.9 Le Teil earthquake, EarthArXiv preprint, [doi: 10.31223/X5DX26](https://doi.org/10.31223/X5DX26)
 - *C. Liang*, J. Peng, **J. P. Ampuero**, N. Shauer, K. Dai, Resonances in fluid-filled cracks of complex geometry and application to very long period (VLP) seismic signals at Mayotte submarine volcano, ESSOAr preprint, [doi:10.22541/essoar.169462053.30447003/v1](https://doi.org/10.22541/essoar.169462053.30447003/v1)
 - *M. T. Herrera*, **J. P. Ampuero**, J. G. F. Crempien, A proxy implementation of thermal pressurization for earthquake cycle modeling on rate-and-state faults, EarthArXiv preprint, [doi:10.31223/X5S377](https://doi.org/10.31223/X5S377)
 - A. Inbal, **J. P. Ampuero**, R. W. Clayton, Earthquake detectability and depth resolution with dense arrays in Long Beach, California, ESSOAr preprint, [doi:10.1002/essoar.10508262.1](https://doi.org/10.1002/essoar.10508262.1)
