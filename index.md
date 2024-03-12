@@ -96,6 +96,7 @@ Complete list, including current pre-prints, in [CV](https://www.dropbox.com/s/0
 
 ## Current pre-prints
 
+- D. S. Kammer, G. C. McLaskey, R. E. Abercrombie, **J. P. Ampuero**, C. Cattania, M. Cocco, L. Dal Zilio, G. Dresen, A.-A. Gabriel, C.-Y. Ke, C. Marone, P. A. Selvadurai, E. Tinti, Energy dissipation in earthquakes, arXiv preprint, [doi:10.48550/arXiv.2403.06916](https://arxiv.org/abs/2403.06916)
 - *J. Flores-Cuba*, *E. Oral*, B. Idini, *C. Liang*, **J. P. Ampuero**, Mechanisms and seismological signatures of rupture complexity induced by fault damage zones in fully-dynamic earthquake cycle models, EarthArXiv preprint, [doi:10.31223/X5668C](https://doi.org/10.31223/X5668C)
 - *M. van den Ende*, **J. P. Ampuero**, F. Courboulex, B. Delouis, M. Godano, C. Larroque, A. Sladen, Distributed Acoustic Sensing for aftershock monitoring: the case of the 2019 Mw4.9 Le Teil earthquake, EarthArXiv preprint, [doi:10.31223/X5DX26](https://doi.org/10.31223/X5DX26)
 - *C. Liang*, J. Peng, **J. P. Ampuero**, N. Shauer, K. Dai, Resonances in fluid-filled cracks of complex geometry and application to very long period (VLP) seismic signals at Mayotte submarine volcano, ESSOAr preprint, [doi:10.22541/essoar.169462053.30447003/v1](https://doi.org/10.22541/essoar.169462053.30447003/v1)
